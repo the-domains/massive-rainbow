@@ -1,0 +1,14 @@
+layout_spectrum: 0.47186807938851416
+typography_spectrum: 0.7449250612407923
+color:
+  brandStrength: 0.01619904860854149
+  lightness: 0.10298797325231135
+  saturation: 0.7621230056975037
+  rhythmicContrast: 0.9703994134906679
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: massive rainbow
